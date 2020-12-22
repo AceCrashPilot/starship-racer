@@ -4,7 +4,6 @@ Django @ file:///C:/Users/david/AppData/Local/pypoetry/Cache/artifacts/ba/bf/03/
 django-heroku @ file:///C:/Users/david/AppData/Local/pypoetry/Cache/artifacts/51/43/38/94e829fbf6bfc6e0f1bbb53fee34d54c77a587bb4a5c241b5e0976f77c/django_heroku-0.3.1-py2.py3-none-any.whl
 djangorestframework @ file:///C:/Users/david/AppData/Local/pypoetry/Cache/artifacts/8b/21/6c/84ed5e211d292def24c2ce2667c157395bce3c9ec395ecc1835ea52692/djangorestframework-3.12.2-py3-none-any.whl
 gunicorn @ file:///C:/Users/david/AppData/Local/pypoetry/Cache/artifacts/a6/65/a7/4b58823c91bc813ac9e95258024ddc1f2678b5bfc0ea3bc134495a203e/gunicorn-20.0.4-py2.py3-none-any.whl
-psycopg2 @ file:///C:/Users/david/AppData/Local/pypoetry/Cache/artifacts/e9/83/9d/480a7e9ef78ea4bcba536e0f7ae1b131f0fc7542ab1fb46ab5f33b5422/psycopg2-2.8.6-cp39-cp39-win_amd64.whl
 pytz @ file:///C:/Users/david/AppData/Local/pypoetry/Cache/artifacts/c6/bb/04/21098a684ef4022fe42ab07dfca47a49a953c3fb8599e8c0645c717a82/pytz-2020.4-py2.py3-none-any.whl
 sqlparse @ file:///C:/Users/david/AppData/Local/pypoetry/Cache/artifacts/bc/af/02/8aa71b17fd39b26b858293918c5c6412f83768a0bfd0a4626f660aa5f8/sqlparse-0.4.1-py3-none-any.whl
 whitenoise @ file:///C:/Users/david/AppData/Local/pypoetry/Cache/artifacts/49/34/b8/8c82abbc2b1712f73c0cf521fb37dd8d50868e799d425f701b78a0cd29/whitenoise-5.2.0-py2.py3-none-any.whl
