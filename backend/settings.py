@@ -11,7 +11,7 @@ https://docs.djangoproject.com/en/3.1/ref/settings/
 """
 # Import django_heroku module at the top of your settings.py file
 import django_heroku
-
+from os import getenv
 from pathlib import Path
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
@@ -22,7 +22,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = '778m5s_mo^ie#^fd99vh5!d4$c8b-tphs20cnhmj&=*xmw#)0e'
+SECRET_KEY = getenv('SECRET_KEY', 'I randomly will change the secret key.')
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
