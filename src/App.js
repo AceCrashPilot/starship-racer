@@ -13,9 +13,9 @@ function App() {
 	useEffect(() => {
 		setAppState({ loading: true });
 		// Production value TODO: use correct value in production.
-		// const apiUrl = `https://starship-racer.herokuapp.com/api/`
+		const apiUrl = `https://starship-racer.herokuapp.com/api/`
 		// Dev value
-		const apiUrl = 'http://127.0.0.1:8000/api/';
+		//const apiUrl = 'http://127.0.0.1:8000/api/';
 
 		fetch(apiUrl)
 			.then((data) => data.json())
