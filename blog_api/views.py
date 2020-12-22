@@ -1,7 +1,7 @@
 from rest_framework import generics
 from blog.models import Post
 from .serializers import PostSerializer
-from rest_framework.permissions import (BasePermission, DjangoModelPermissions, SAFE_METHODS)
+from rest_framework.permissions import (BasePermission, DjangoModelPermissions, IsAuthenticatedOrReadOnly, SAFE_METHODS)
 
 
 class PostUserWritePermission(BasePermission):
@@ -16,7 +16,7 @@ class PostUserWritePermission(BasePermission):
 
 
 class PostList(generics.ListCreateAPIView):
-    permission_classes = [DjangoModelPermissions]
+    permission_classes = [IsAuthenticatedOrReadOnly]
     queryset = Post.objects.all()
     serializer_class = PostSerializer
 
