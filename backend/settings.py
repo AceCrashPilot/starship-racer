@@ -44,6 +44,10 @@ INSTALLED_APPS = [
     # 3rd party apps
     'rest_framework',
 
+    # Starship Racer apps
+    'blog.apps.BlogConfig',
+    'blog_api.apps.BlogApiConfig',
+
 ]
 
 MIDDLEWARE = [
@@ -120,6 +124,12 @@ USE_I18N = True
 USE_L10N = True
 
 USE_TZ = True
+
+REST_FRAMEWORK = {
+    'DEFAULT_PERMISSION_CLASSES': [
+        'rest_framework.permissions.AllowAny',
+    ]
+}
 
 # Activate Django-Heroku.
 django_heroku.settings(locals())
