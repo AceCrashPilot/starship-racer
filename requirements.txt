@@ -1,9 +1,9 @@
-asgiref @ file:///C:/Users/david/AppData/Local/pypoetry/Cache/artifacts/9c/90/26/d9fa1dfd567d8ba46faa44b741eb6442f3b97eb9f10a40bc1ad7a7f10e/asgiref-3.3.1-py3-none-any.whl
-dj-database-url @ file:///C:/Users/david/AppData/Local/pypoetry/Cache/artifacts/45/63/a9/658183194fc3125fc68440060966adc5dd0a3fc4ce8fed4192341b49bf/dj_database_url-0.5.0-py2.py3-none-any.whl
-Django @ file:///C:/Users/david/AppData/Local/pypoetry/Cache/artifacts/ba/bf/03/8ccf81ef35756f700d9fea51f565add2b97402eb4a2445122d728e348e/Django-3.1.4-py3-none-any.whl
-django-heroku @ file:///C:/Users/david/AppData/Local/pypoetry/Cache/artifacts/51/43/38/94e829fbf6bfc6e0f1bbb53fee34d54c77a587bb4a5c241b5e0976f77c/django_heroku-0.3.1-py2.py3-none-any.whl
-djangorestframework @ file:///C:/Users/david/AppData/Local/pypoetry/Cache/artifacts/8b/21/6c/84ed5e211d292def24c2ce2667c157395bce3c9ec395ecc1835ea52692/djangorestframework-3.12.2-py3-none-any.whl
-gunicorn @ file:///C:/Users/david/AppData/Local/pypoetry/Cache/artifacts/a6/65/a7/4b58823c91bc813ac9e95258024ddc1f2678b5bfc0ea3bc134495a203e/gunicorn-20.0.4-py2.py3-none-any.whl
-pytz @ file:///C:/Users/david/AppData/Local/pypoetry/Cache/artifacts/c6/bb/04/21098a684ef4022fe42ab07dfca47a49a953c3fb8599e8c0645c717a82/pytz-2020.4-py2.py3-none-any.whl
-sqlparse @ file:///C:/Users/david/AppData/Local/pypoetry/Cache/artifacts/bc/af/02/8aa71b17fd39b26b858293918c5c6412f83768a0bfd0a4626f660aa5f8/sqlparse-0.4.1-py3-none-any.whl
-whitenoise @ file:///C:/Users/david/AppData/Local/pypoetry/Cache/artifacts/49/34/b8/8c82abbc2b1712f73c0cf521fb37dd8d50868e799d425f701b78a0cd29/whitenoise-5.2.0-py2.py3-none-any.whl
+asgiref
+dj-database-url
+Django
+django-heroku
+djangorestframework
+gunicorn
+pytz
+sqlparse
+whitenoise
